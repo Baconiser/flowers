@@ -17,18 +17,7 @@
 <body>
     <!-- No need to create a canvas element, the library will handle it -->
     
-    <!-- Load the bundled JavaScript file -->
-    <script src="./dist/flowers.umd.cjs"></script>
-    
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            // Initialize the flower animation with default settings
-            // The library will create and set up the canvas automatically
-            const renderer = FlowerCanvasRenderer.init();
-            
-            // Optional: To stop the animation when needed
-            // renderer.stop();
-        });
-    </script>
+    <!-- Import the main.js file which initializes the flower animation -->
+    <script type="module" src="./main.js"></script>
 </body>
 </html>
