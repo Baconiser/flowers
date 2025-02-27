@@ -1,0 +1,19 @@
+{
+  "name": "flowers",
+  "version": "1.0.0",
+  "description": "A TypeScript library that creates an interactive flower animation on an HTML canvas. The animation features different types of flowers that respond to mouse/touch interactions and sway gently in a simulated breeze.",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "vite": "^5.0.0"
+  }
+}
