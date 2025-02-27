@@ -1,5 +1,6 @@
 # Interactive Flower Animation
 
+[Demo](https://flowers-gold-eight.vercel.app/)
 ### THIS README WAS GENERATED USING CLINE + CLAUDE-3.7-SONNET
 A library that creates an interactive flower animation on an HTML canvas. The animation features different types of flowers that respond to mouse/touch interactions and sway gently in a simulated breeze.
 
